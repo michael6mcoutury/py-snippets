@@ -13,3 +13,8 @@ Personal development log — notes, findings, and ongoing work.
 - Pinned dependency versions for reproducibility
 - Added healthcheck endpoint stub
 - Added basic usage examples to README
+
+## 2026-04-29
+- Added inline documentation for core functions
+- Updated .gitignore to exclude build artifacts
+- Addressed feedback from self code review
