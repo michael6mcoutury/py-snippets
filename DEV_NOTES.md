@@ -22,3 +22,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-29
 - Resolved TODO items from previous session
 - Updated CI cache strategy
+
+## 2026-05-06
+- Refactored module structure for clarity
